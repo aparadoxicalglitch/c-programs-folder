@@ -1,0 +1,5 @@
+win + shift + s = certain part of screen shot
+win + l = lock
+ctrl + shift + esc = task manager
+emoji - win + .(full stop)
+win + down arrow = minimize
